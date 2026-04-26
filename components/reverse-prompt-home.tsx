@@ -571,7 +571,7 @@ export function ReversePromptHome({
             </svg>
 
             <h1 className="text-5xl font-extrabold tracking-tighter sm:text-6xl lg:text-7xl">
-              Depodan ->
+              Depodan &gt;
               <br />
               İsteme
             </h1>
